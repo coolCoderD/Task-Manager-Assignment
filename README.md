@@ -2,7 +2,6 @@
 
 A modern, feature-rich task management application built with React, TypeScript, and Redux. This application helps users organize their tasks with a beautiful, responsive interface and persistent storage.
 
-![Task Management App Screenshot](https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&q=80&w=2072)
 
 ## Features
 
@@ -180,10 +179,4 @@ src/
    - Check Redux connection
    - Verify component re-rendering
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Built with ❤️ using React and TypeScript
