@@ -1,6 +1,19 @@
 # Task Management Application
 
-A modern, feature-rich task management application built with React, TypeScript, and Redux. This application helps users organize their tasks with a beautiful, responsive interface and persistent storage.
+A modern, feature-rich task management application built with **React**, **TypeScript**, and **Redux**. This application helps users organize their tasks with a beautiful, responsive interface and persistent storage.
+
+## Live Site
+
+Check out the live application here: [Task Management App Live](https://task-manager-assignment-eight.vercel.app/)
+
+## Tech Stack
+
+[![Frontend](https://img.shields.io/badge/Frontend-React-blue?logo=react)](https://react.dev/)
+[![Frontend](https://img.shields.io/badge/Frontend-TypeScript-blue?logo=typescript)](https://www.typescriptlang.org/)
+[![State Management](https://img.shields.io/badge/State%20Management-Redux-blue?logo=redux)](https://redux.js.org/)
+[![Styling](https://img.shields.io/badge/Styling-Tailwind%20CSS-blue?logo=tailwindcss)](https://tailwindcss.com/)
+[![State Management](https://img.shields.io/badge/State%20Management-Redux%20Toolkit-blue?logo=redux)](https://redux-toolkit.js.org/)
+
 
 
 ## Features
@@ -23,7 +36,7 @@ A modern, feature-rich task management application built with React, TypeScript,
 - [Architecture](#architecture)
 - [Contributing](#contributing)
 - [Troubleshooting](#troubleshooting)
-- [License](#license)
+
 
 ## Installation
 
